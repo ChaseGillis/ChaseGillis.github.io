@@ -10875,7 +10875,7 @@ p.lead {
     padding-left: 0;
     padding-right: 0;
     text-align: center;
-    position: fixed;
+    position: flex;
     top: 0;
     left: 0;
     display: flex;
